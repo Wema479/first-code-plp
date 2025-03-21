@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+     <html>
+        <head>
+            <title>My webpage</title>
+        </head>
+        <body>
+            <header>
+               <h1>First webpage</h1>
+               <h5>Subheading</h5>
+            </header>
+            <main>
+               <p>Everyday is a chance to do something amazing</p>
+               <a href="https://linkedin.com">Visit https://linkedin.com/</a>
+            </main>   
+            <footer>
+                <p>&copy; 2025. All Rights Reserved.</p>
+            </footer>    
+        </body>
+     </html>
