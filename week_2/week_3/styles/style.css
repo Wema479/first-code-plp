@@ -1,0 +1,17 @@
+#google {
+    color: chartreuse;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home-footer{
+    color: aquamarine;
+    font-weight: bold;
+}
+
+body {
+    background-image: url('../styles/images/Subgrade\ 2\ on\ loop\ road\ at\ Km\ 2+375-2+600.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+}
