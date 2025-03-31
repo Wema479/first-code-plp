@@ -1,0 +1,31 @@
+body{
+    background-color: darkcyan;
+}
+
+#heading{
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    border-image: 5px solid brown;
+    align-items: center;
+}
+input, textarea{
+    width: 100%;
+    border: 1px solid lavender;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+label{
+    display:block;
+    font-weight: bold;
+}
+
+button{
+    background-color: darkolivegreen;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+}
